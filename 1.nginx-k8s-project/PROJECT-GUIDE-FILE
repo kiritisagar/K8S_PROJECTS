@@ -1,0 +1,23 @@
+REQUIREMENTS:
+1.SERVER-T2.MIDIUM
+2.INSTALL MINIKUBE IN THAT SERVER
+3.DEPLOY THAT APPLICATION
+
+STEPS:
+STEP1:
+launch one t2.medium instance and connect to it
+
+step2:
+install minikube k8s(in all steps (minikunu ubuntu))
+
+ste3:
+1.clone the code
+git clone https://github.com/kiritisagar/K8S_PROJECTS.git
+
+2.go to your project
+cd K8S_PROJECTS
+
+ kubectl apply -f nginx-deployment.yaml
+ kubectl apply -f nginx-service.yaml
+
+
