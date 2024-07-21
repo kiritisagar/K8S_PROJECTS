@@ -1,0 +1,17 @@
+REQUIREMENTS:
+
+
+##STEPS:
+#step1:
+#CLONE git repository:
+
+git clone https://github.com/kiritisagar/K8S_PROJECTS.git
+
+go to project repository
+cd K8S_PROJECTS && cd 2.WordPress-with-a-MySQL-pv 
+
+step2:
+create database:
+
+cd mysql-database
+
