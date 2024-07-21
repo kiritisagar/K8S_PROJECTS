@@ -9,3 +9,4 @@ spec:
     app: wordpress
   type: LoadBalancer
 
+
